@@ -1,0 +1,27 @@
+.t {
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    background: linear-gradient(blue, pink);
+    font-size: larger;
+}
+.real
+{
+    text-align: center;
+    font-size: larger;
+}
+.done
+{
+    text-align: center;
+    font-size: larger;
+}
+.termsOfService {
+    text-align: center;
+}
+.classCool {
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+}
